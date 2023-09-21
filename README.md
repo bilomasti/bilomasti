@@ -1,7 +1,7 @@
 ### Hi there I'm Bilal👋
 
 <!--
-**bilomasti/bilomasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bilomasti/bilomasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bilalparvez@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There is nothing fun about me
--->
+
